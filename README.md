@@ -1,2 +1,3 @@
 # Hello-World
-     Reudiges Programm
+     
+     Ausgabe eines Textes
